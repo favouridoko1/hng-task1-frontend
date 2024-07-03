@@ -18,28 +18,27 @@ body {
     align-items: center;
 }
 
-h1 {
-    color: #b8b8b8;
-}
-
-
-p {
-    line-height: 1.7;
-
-}
-
-.parent {
-    max-width: 97%;
-
-}
-
 @media screen and (max-width:785px) {
     img {
         max-width: 98%;
     }
 }
+.parent { max-width: 97%; }
 
-a {
+.detailsContainer {
+    border: 1px solid #4949499d;
+    border-top: none;
+    padding: 10px 20px;
+    max-width: 558px;
+}
+
+h1 { color: #b8b8b8; }
+
+p { line-height: 1.7; }
+
+a { 
     color: rgb(92, 50, 50);
     text-decoration: none;
 }
+
+
