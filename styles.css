@@ -26,7 +26,7 @@ body {
 .parent { max-width: 97%; }
 
 .detailsContainer {
-    border: 1px solid #4949499d;
+    /* border: 1px solid #4949499d; */
     border-top: none;
     padding: 10px 20px;
     max-width: 558px;
