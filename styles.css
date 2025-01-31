@@ -28,7 +28,7 @@ body {
 .detailsContainer {
     /* border: 1px solid #4949499d; */
     border-top: none;
-    padding: 10px 20px;
+    padding: 10px 0px;
     max-width: 558px;
 }
 
